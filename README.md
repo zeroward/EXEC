@@ -23,6 +23,10 @@ python3 runfirst.py
 python3 exigent.py
 ````
 
+Supported Protocols
+-----
+1. ModbusTCP
+
 Operation
 -----
 
