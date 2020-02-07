@@ -25,7 +25,7 @@ python3 exigent.py
 
 Supported Protocols
 -----
-1. ModbusTCP
+ModbusTCP
 
 Operation
 -----
