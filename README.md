@@ -23,6 +23,10 @@ python3 runfirst.py
 python3 exigent.py
 ````
 
+Required Modules:
+- PrettyTable
+- Pymodbus
+
 Supported Protocols
 -----
 ModbusTCP
