@@ -26,7 +26,7 @@ python3 exigent.py
 Operation
 -----
 
-> initilize JSON configuration File
+> initilize JSON configuration File\n
 > Build Operator Accesses
 > Pick DEMO Mode
 > Add targets through Save function
