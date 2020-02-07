@@ -15,6 +15,24 @@
                                                       `-=#$%&%$#=-'   
                                                          | ;  :|     
                                                 _____.,-#%&$@%#&#~,._____
+                                               
+
+## Capabilities
+EXEC is capable of creating and storing mission profiles to perform ICS/SCADA attacks. This does not automate everything, rather it gives you a pretty interface to leverage pymodbus through. 
+
+## Development Progress
+### 1.0 Release Milestones
+- [x] Modbus Module Integration
+- [ ] DNP3 Module Integration
+- [ ] Config import/export
+### 2.0 Release Milestones
+- [ ] Web Interface
+- [ ] Collaboration
+### Future Goals
+- [ ] BACNet Module Integration
+- [ ] Ethernet/IP Module Integration
+- [ ] Profinet Module Integration
+
 Installation
 -----
 
