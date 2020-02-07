@@ -23,7 +23,7 @@ python3 runfirst.py
 python3 exigent.py
 ````
 
-Required Modules:
+### Required Modules (installed by runfirst.py):
 - PrettyTable
 - Pymodbus
 
