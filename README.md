@@ -18,7 +18,9 @@
                                                
 
 ## Capabilities
-EXEC is capable of creating and storing mission profiles to perform ICS/SCADA attacks. This does not automate everything, rather it gives you a pretty interface to leverage pymodbus through. 
+EXEC is capable of creating and storing mission profiles to perform ICS/SCADA attacks. This does not automate everything, rather it gives you a pretty interface to leverage pymodbus through.
+### Supported Protocol
+ModbusTCP
 
 ## Development Progress
 ### 1.0 Release Milestones
