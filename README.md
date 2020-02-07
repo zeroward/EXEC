@@ -26,13 +26,13 @@ python3 exigent.py
 Operation
 -----
 
-> initilize JSON configuration File\n
-> Build Operator Accesses
-> Pick DEMO Mode
-> Add targets through Save function
-> Query targets to verify
-> Go to Attack mode
-> Agree to usage policy
-> Build Operation
-> Launch Attack
+-initilize JSON configuration File<br>
+-Build Operator Accesses<br>
+-Pick DEMO Mode<br>
+-Add targets through Save function<br>
+-Query targets to verify<br>
+-Go to Attack mode<br>
+-Agree to usage policy<br>
+-Build Operation<br>
+-Launch Attack
 
