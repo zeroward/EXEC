@@ -1,0 +1,4 @@
+prettytable==0.7.2
+pymodbus==2.3.0
+pyserial==3.4
+six==1.14.0
